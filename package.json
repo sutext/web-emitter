@@ -1,0 +1,27 @@
+{
+    "name": "@sutext/emitter",
+    "version": "1.0.3",
+    "description": "custom web event emitter libray",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo nothing & exit 1"
+    },
+    "files": [
+        "index.d.ts",
+        "index.js"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/sutext/web-emitter.git"
+    },
+    "keywords": [
+        "event",
+        "emitter"
+    ],
+    "author": "supertext@icloud.com",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/sutext/web-emitter/issues"
+    },
+    "homepage": "https://github.com/sutext/web-emitter#readme"
+}
